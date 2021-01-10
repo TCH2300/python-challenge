@@ -1,0 +1,7 @@
+Election Results
+--------------------------
+Total Votes:3521001
+--------------------------
+Could not figure out how to get line 55 of code to print to txt file :(
+--------------------------
+Winner: Khan
